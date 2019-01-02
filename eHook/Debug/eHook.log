@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+c:\users\joshua\source\repos\ehook\packages\easyhooknativepackage.2.7.6789\build\native\include\easyhook.h(39): warning C4005: "NTDDI_VERSION": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(225): note: Siehe vorherige Definition von "NTDDI_VERSION"
+c:\users\joshua\source\repos\ehook\packages\easyhooknativepackage.2.7.6789\build\native\include\easyhook.h(40): warning C4005: "_WIN32_WINNT": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(215): note: Siehe vorherige Definition von "_WIN32_WINNT"
+  eHook.vcxproj -> C:\Users\Joshua\source\repos\eHook\Debug\eHook.dll
